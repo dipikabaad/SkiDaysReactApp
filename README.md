@@ -13,6 +13,10 @@ Start the server
 
 `npm start`
 
+###Viewing the App
+
+Type localhost:3000 in Browser
+
 
  
  
